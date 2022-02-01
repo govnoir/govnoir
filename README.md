@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript & C#.
 	- I've just started out with git and Github 
 	- I'm looking at Angular and Typescript as next technologies  to learn
-
-- 📫 How to reach me: @gurkwaan here
-	- I havn't set up a linkedIn just yet, but it's in the TODO-list
 	
 If you have any PROtip for someone new to the game, hit me up!
 
