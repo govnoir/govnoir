@@ -1,10 +1,9 @@
-I'm a CS student, focusing on software development, my ambition/ goal is to become really really good at it. 
-	(and hopefully land a developer job pretty soon, so I can get even better)
+Junior Software Engineer @ [ID8 Engineering](https://id8-engineering.io/)
 
-I have a broad interest in programming, everything from making games to web-design, but not really leaning towards a specific direction yet
-My main Language is Python, but i've dabbled C#, JavaScript, HTML, CSS.
+I have a broad interest in programming, everything from backeend and infrastructure to playing arond with game-jams and some occasional web-design/developent.
+Main Language is Python, but i've dabbled C#, JavaScript, HTML, CSS just to name some.
 
-Always loooking for new fun stuf to learn, so if you have any PROtip for someone new to the game, hit me up!
+Always looking for new fun stuf to learn!
 
 <!---
 gurkwaan/gurkwaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
